@@ -14,9 +14,9 @@
           "badges": [
             {
               "name": "Netlify Status",
-              "icon": "https://api.netlify.com/api/v1/badges/{{netlifly.site.id}}/deploy-status",
+              "icon": "https://api.netlify.com/api/v1/badges/{{netlifly.site.uuid}}/deploy-status",
               "url": "https://app.netlify.com/sites/{{name}}/deploys",
-              "order": 0.11
+              "order": 0.8
             }
           ]
         }
