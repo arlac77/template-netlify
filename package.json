@@ -1,5 +1,5 @@
 {
-  "scrpts": {
+  "scripts": {
     "build": "rollup -c tests/app/rollup.config.mjs"
   },
   "template": {
