@@ -1,4 +1,7 @@
 {
+  "scrpts": {
+    "build": "rollup -c tests/app/rollup.config.mjs"
+  },
   "template": {
     "usedBy": [
       "arlac77/svelte-guard-history-router"
