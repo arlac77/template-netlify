@@ -9,9 +9,6 @@
       "arlac77/svelte-session-manager"
     ],
     "properties": {
-      "netlify": {
-        "publish": "publish/"
-      }
     },
     "mergers": [
       {
