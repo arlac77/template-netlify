@@ -10,7 +10,7 @@
     ],
     "properties": {
       "netlify": {
-        "publish": "/publish/"
+        "publish": "publish/"
       }
     },
     "mergers": [
