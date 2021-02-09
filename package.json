@@ -3,6 +3,9 @@
     "build": "rollup -c {{rollup.config}}"
   },
   "template": {
+   "inheritFrom": [
+      "arlac77/template-web-app"
+    ],
     "usedBy": [
       "arlac77/component-template-designer",
       "arlac77/svelte-command",
