@@ -4,8 +4,6 @@
   },
   "template": {
     "usedBy": [
-      "arlac77/component-template-designer",
-      "arlac77/svelte-websocket-store"
     ],
     "properties": {
       "netlify": {}
