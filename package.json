@@ -5,7 +5,6 @@
   "template": {
     "usedBy": [
       "arlac77/component-template-designer",
-      "arlac77/svelte-command",
       "arlac77/svelte-log-view",
       "arlac77/svelte-session-manager",
       "arlac77/svelte-websocket-store"
