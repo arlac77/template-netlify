@@ -3,8 +3,7 @@
     "build": "rollup -c {{rollup.config}}"
   },
   "template": {
-    "usedBy": [
-    ],
+    "usedBy": [],
     "properties": {
       "netlify": {}
     },
